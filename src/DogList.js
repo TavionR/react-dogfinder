@@ -9,9 +9,7 @@ import "./DogList.css";
  *
  * props:
   * dogs: [{name, src}]
- *
  * rendered at /dogs
- *
  */
 
 function DogList({ dogs }) {
